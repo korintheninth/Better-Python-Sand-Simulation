@@ -4,6 +4,6 @@ Improved version of my previous sand simulation
 q = sand
 w = rock
 e = water
-r = gas
+r = wapour
 d = eraser
 left click to spawn
